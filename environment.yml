@@ -1,0 +1,7 @@
+name: cookiecutter-personal
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cookiecutter
+prefix: /home/nico_rivas/miniconda3/envs/cookiecutter-personal
